@@ -6,8 +6,8 @@ draft: false
 description: "Download links for the Hullrot launcher."
 tags: ["download", "hullrot", "game download", "game"]
 ---
-[Linux](https://mega.nz/file/kOpCUBIK#GYFbyYrSTEvWdn6icPmN0Zw9KK2Eo0SRyBWXcOZ1o4w)
+[Linux](https://github.com/HullrottersGuild/hullrot/releases/download/v0.29.0-Hullrot/SS14.Launcher_Linux.zip)
 
-[Windows](https://mega.nz/file/0LpEQa4C#m7no4kfnprRgoti-EP8Yh25uVK8dCPQ-FMyyqF6X2Lw)
+[Windows](https://github.com/HullrottersGuild/hullrot/releases/download/v0.29.0-Hullrot/SS14.Launcher_Windows.zip)
 
-[MacOS](https://mega.nz/file/4P50xAiZ#BD8VFAFt1aoRllY8FmG9efgvf4xwIS27Kh1fMc0hbW8)
+[MacOS](https://github.com/HullrottersGuild/hullrot/releases/download/v0.29.0-Hullrot/SS14.Launcher_macOS.zip)
