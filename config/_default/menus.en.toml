@@ -1,0 +1,17 @@
+[[main]]
+none = "none"
+
+[[main]]
+pre = "patreon"
+url = "https://www.patreon.com/sectorcrescent"
+identifier = "LNzAWrZvdF"
+weight = 9999
+
+[[main]]
+pre = "discord"
+url = "https://discord.gg/e6n9n9xgHN"
+identifier = "WohFUU2NaG"
+weight = 9999
+
+[[footer]]
+none = "none"

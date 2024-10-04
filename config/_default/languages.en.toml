@@ -1,0 +1,13 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Hullrot: Death in Taypan"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "A Sci-Fi Tragedia"
+author = { image = "hullrotjpg.png", bio = "", headline = "", name = "Hullrot: Death in Taypan", links = [ { discord = "https://discord.gg/e6n9n9xgHN" }, { patreon = "https://www.patreon.com/sectorcrescent" } ] }
